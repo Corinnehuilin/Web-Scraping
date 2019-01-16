@@ -35,4 +35,4 @@ default = 5
 ### index.html
 This is a test file used to make testing easier.
 
-###### As a general courtesy, please respect a website's the terms of use and don't overload their servers!
+###### As a general courtesy, please respect a website's terms of use and don't overload their servers!
