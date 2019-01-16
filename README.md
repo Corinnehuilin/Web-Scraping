@@ -2,7 +2,7 @@
 
 This program will text a phone number (through [Twilio](https://www.twilio.com)) if a website that you have chosen to monitor has changed. All you need to do is enter the website URL, the number you want the text from, and the number you want the text to go to. This is done through scrapingvariables.py.
 
-## Prerequisites
+## To Begin
 - You will need to import requests.
 ```
 pip install requests
