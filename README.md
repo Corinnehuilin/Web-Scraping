@@ -23,15 +23,6 @@ Don't forget the +1 before the phone numbers!
 ### gitscraping.py
 This is where all of the magic happens! There are comments in the gitscraping.py file if some of the code is confusing.
 
-You can customize the message that sends in line 51 through 
-```
-send_message("The website changed!")
-```
-This code automatically checks a website every 5 seconds, but how long the program waits (in seconds) may be changed in line 19 through
-```
-default = 5
-```
-
 ### index.html
 This is a test file used to make testing easier.
 
